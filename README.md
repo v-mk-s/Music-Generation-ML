@@ -31,8 +31,7 @@ I highly do not recommend using any music with a human speech in it.
 4. `youtube-dl`
 5. `magenta`
 
-### TODO: ###
-1. Use jupyter notebook instead of `.py` file
-2. Improve codestyle a lot --- had no time to write a decent code
-3. Get better pretrained model --- had no time to search for the good one, got the simplest possible `basic_rnn.mag`
-4. Change `youtube-dl` to something better to download videos faster than `60kb/s`
+## TODO 
+1. Use Jupyter notebook instead of `.py` file
+2. Improve [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network) model
+3. Change `youtube-dl` to something better to download videos faster than `60kb/s`
