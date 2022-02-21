@@ -1,5 +1,5 @@
-# musicGenerationPython
-### Purpose: ###
+# Music Generation
+## Purpose:
 musicGenerationPython allows you to find ringtone on spotify, then give that song to `tensorflow-magenta` for it to try to continue your ringtone
 
 ### Usage: ###
