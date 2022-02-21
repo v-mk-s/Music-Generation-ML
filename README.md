@@ -25,7 +25,7 @@ I highly do not recommend using any music with a human speech in it.
 8. Deletes temporary files
 
 ## Requirements
-1. Make https://github.com/kichiki/WaoN as `waon` in the same folder as `main.py` file
+1. Make [WaoN](https://github.com/kichiki/WaoN) as `waon` in the same folder as `main.py` file
 2. `spotipy`
 3. `youtude-search`
 4. `youtube-dl`
