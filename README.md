@@ -27,7 +27,7 @@ I highly do not recommend using any music with a human speech in it.
 ## Requirements
 1. Make [WaoN](https://github.com/kichiki/WaoN) as `waon` in the same folder as `main.py` file
 2. `spotipy`
-3. `youtude-search`
+3. `youtube-search`
 4. `youtube-dl`
 5. `magenta`
 
